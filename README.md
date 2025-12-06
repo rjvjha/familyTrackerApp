@@ -15,7 +15,7 @@ This application is designed to provide peace of mind to families by allowing th
  wandering.
 *   Groups of friends or colleagues who need to coordinate their movements.
 
-The app uses a secure Telegram to to transmit location data, so you can be sure that only authorized individuals can see it.
+The app uses a secure Telegram to transmit location data, so you can be sure that only authorized individuals can see it.
 
 ## Permissions
 
