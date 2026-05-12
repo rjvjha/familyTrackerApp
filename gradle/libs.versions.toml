@@ -1,5 +1,6 @@
 [versions]
 agp = "8.11.2"
+firebaseBom = "34.13.0"
 kotlin = "2.0.21"
 coreKtx = "1.17.0"
 junit = "4.13.2"
@@ -16,6 +17,7 @@ workManager = "2.9.1"
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 androidx-material-icons-extended = { module = "androidx.compose.material:material-icons-extended", version.ref = "materialIconsExtended" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
